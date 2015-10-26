@@ -151,4 +151,4 @@ Play video: how to use
 
 ====================================
 
-For more details, please, see the demo project.
+For more details, please, see the sample project.

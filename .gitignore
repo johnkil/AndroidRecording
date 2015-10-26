@@ -1,3 +1,10 @@
-bin/
-Thumbs.db
-R.java
+# IntelliJ IDEA
+.idea
+*.iml
+
+# Gradle
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
